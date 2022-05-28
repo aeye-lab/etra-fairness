@@ -1,0 +1,2 @@
+python deepEye_fairness_gazebase.py -inspect_key "Self-Identified Gender" -inspect_list "['Male','Female']" -use_percentages 1 -use_trial_types "['VD1','VD2']" -number_train 100 -seconds_per_user 80 -num_folds 10 -GPU 1
+#python deepEye_fairness_gazebase.py -inspect_key "Self-Identified Ethnicity" -inspect_list "['White','Hispanic']" -use_percentages 1 -use_trial_types "['VD1','VD2']" -number_train 50 -seconds_per_user 80 -num_folds 10 -GPU 1
