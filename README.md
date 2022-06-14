@@ -21,6 +21,7 @@ or
 git clone https://github.com/aeye-lab/etra-fairness
 ```
 depending on your preferences and settings.
+Afterward, change into the directory by using `cd etra-fairness`.
 
 ### Install packages
 Install all required python packages via:
