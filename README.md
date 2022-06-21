@@ -1,4 +1,6 @@
 # Fairness in Oculomotoric Biometric Identification
+[![paper](https://img.shields.io/static/v1?label=paper&message=download%20link&color=brightgreen)](https://dl.acm.org/doi/10.1145/3517031.3529633)
+
 This repo provides the code for reproducing the experiments in [Fairness in Oculomotoric Biometric Identification](https://doi.org/10.1145/3517031.3529633).
 
 In the paper, we investigate the fairness of a biometric system based on eye-tracking data with respect to gender, ethnicity, and age.
