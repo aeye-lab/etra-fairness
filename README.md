@@ -17,10 +17,12 @@ You can download the publicly available data here: [GazeBase, a large-scale, mul
 You can clone this repository by either using 
 ```bash
 git clone git@github.com:aeye-lab/etra-fairness
+cd etra-fairness
 ```
 or 
 ```bash
 git clone https://github.com/aeye-lab/etra-fairness
+cd etra-fairness
 ```
 depending on your preferences and settings.
 Afterward, change into the directory by using `cd etra-fairness`.
